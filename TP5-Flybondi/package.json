@@ -1,0 +1,13 @@
+{
+  "name": "tp5-flybondi",
+  "version": "1.0.0",
+  "description": "TP5 - Ayuda a Nelsona a encontrar vuelos baratos",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
